@@ -1,6 +1,4 @@
 
-<h1 align="center"> Hi there 👋 , I'm John </h1>
-<h3 align="center">This is My Bulldog Enzo and his wife Aurora</h3>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/7789098/131226975-eadf9211-387d-442a-8199-bc1121f23548.jpg"  width='250'>
 </p>
