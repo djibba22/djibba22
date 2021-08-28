@@ -11,9 +11,12 @@
 -  👯  Fun fact: I was a commercial fisherman in AK for 5 years in the Aleutians.
 
 <p float="left">
+ <img src="./html.png" width="100" />
+  <img src="./css3.png" width="100" />
+ <img src="./js.jpg" width="100" />
   <img src="./Node.js_logo.svg.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="./MySQL.png" width="100" />
+  <img src="./mongodb-logo.png" width="100" />
 </p>
 
 <!--
