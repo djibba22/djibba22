@@ -13,11 +13,10 @@
 <p float="left">
  <img src="./html.png" width="100" />
   <img src="./css3.png" width="120" />
- <img src="./JavaScript-logo.png" width="100" />
+  <img src="./JavaScript-logo.png" width="100" />
   <img src="./Node.js_logo.svg.png" width="150" />
   <img src="./MySQL.png" width="150" />
   <img src="./mongodb-logo.png" width="100" />
-<img src="./react.jpg" width="100" />
 </p>
 
 <!--
