@@ -10,8 +10,12 @@
 -  🌱  I’m currently learning more React Native and Python
 -  👯  Fun fact: I was a commercial fisherman in AK for 5 years in the Aleutians.
 
+<p float="left">
+  <img src="./Node.js_logo.svg.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
-<img src="./Node.js_logo.svg.png"  width='100'>
 <!--
 **djibba22/djibba22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
