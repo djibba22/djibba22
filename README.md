@@ -1,8 +1,14 @@
-### Hi there 👋
 
--  🏗 I’m currently working on my new portfolio Johnwaynedinsmore.com and Teaching tools!
--  🌱 I’m currently learning more React Native and Python
--  👯 Fun fact: I was a commercial fisherman in AK for 5 years in the Aleutians.
+## Hi there 👋 , I'm John
+
+
+#### This is My Bulldog Enzo and his wife Aurora
+
+<img src="https://user-images.githubusercontent.com/7789098/131226975-eadf9211-387d-442a-8199-bc1121f23548.jpg"  width='250'>
+
+-  🏗  I’m currently working on my new portfolio Johnwaynedinsmore.com and Teaching tools!
+-  🌱  I’m currently learning more React Native and Python
+-  👯  Fun fact: I was a commercial fisherman in AK for 5 years in the Aleutians.
 <!--
 **djibba22/djibba22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
